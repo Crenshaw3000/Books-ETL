@@ -1,6 +1,6 @@
 # Amazon Book ETL Pipeline <br />
 
-This ETL pipeline scrapes data daily from Amazon.com for software engineering books. The data is cleaned using a DAG (Directed Acyclic Graph) process and then loaded into a PostgreSQL database.
+This ETL pipeline performs daily data scraping from Amazon.com to gather information on software engineering books. The data is then fetched, cleaned, and loaded into a PostgreSQL database, following a Directed Acyclic Graph (DAG) workflow.
 
 
 
