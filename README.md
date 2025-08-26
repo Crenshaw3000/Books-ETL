@@ -6,12 +6,12 @@ This ETL pipeline performs daily data scraping from Amazon.com to gather informa
 
 ## <a name="technologies"></a> Technologies
 * Python
-* Apache Airflow
-* pgAdmin PostgreSQL
+* Apache Airflow (DAG)
+* PostgreSQL (pgAdmin)
 * Docker
 * Pandas
-* DAG
-* Beautifulsoup
+* Beautifulsoup4
+
 
 ## <a name="features"></a> Features
 
